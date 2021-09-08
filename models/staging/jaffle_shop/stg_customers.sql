@@ -3,4 +3,4 @@ select
     first_name,
     last_name
 
-from training.dbt_training.customers
+from training.jaffle_shop.customers
